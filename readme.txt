@@ -1,5 +1,4 @@
-git is hello shit
-fix fix fix
+git is hello
 git has a mutable index called stage
 git tracks changes OOOOOOFFFFF
 
